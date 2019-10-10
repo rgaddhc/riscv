@@ -50,7 +50,7 @@ riscv_regfile_rtl:
     include,
   ]
   files: [
-    riscv_register_file_latch.sv,
+    riscv_register_file.sv,
   ]
 riscv_regfile_verilator:
   targets: [
